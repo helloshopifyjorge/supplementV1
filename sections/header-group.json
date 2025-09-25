@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header",
@@ -8,21 +17,13 @@
         "item_dGj4GU": {
           "type": "item",
           "settings": {
-            "message": "Free shipping for all orders from $60+",
-            "message_link": ""
-          }
-        },
-        "item_6Ycmkw": {
-          "type": "item",
-          "settings": {
-            "message": "Free shipping for all orders from $60+",
+            "message": "Free shipping for all orders from $149+",
             "message_link": ""
           }
         }
       },
       "block_order": [
-        "item_dGj4GU",
-        "item_6Ycmkw"
+        "item_dGj4GU"
       ],
       "custom_css": [
         ".m-announcement-bar__container {--container-width: 600px;}"
@@ -55,7 +56,7 @@
             "show_currency_switcher": false,
             "show_country_selector": true,
             "show_language_switcher": true,
-            "alert_message": "<span>Open Doors To A World Of Fashion  |  <a class=\"m-link-underline\" href=\"#\">Discover More<\/a><span><\/span><\/span>"
+            "alert_message": ""
           }
         }
       },
@@ -74,13 +75,15 @@
         "sticky_header": "on_scroll_up",
         "transparent_on_top": false,
         "transparent_text_color": "#ffffff",
-        "logo_text": "MINIMOG",
+        "logo_text": "",
+        "logo": "shopify://shop_images/kzowsj.png",
         "logo_svg": "",
         "logo_mobile_svg": "",
         "logo_transparent_svg": "",
-        "logo_max_width": 145,
+        "logo_max_width": 230,
         "sticky_logo_max_width": 145,
         "mobile_logo_max_width": 110,
+        "main_menu": "main-menu",
         "secondary_menu": "",
         "mobile_menu": "",
         "uppercase_parent_level": false,
